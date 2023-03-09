@@ -5,3 +5,4 @@
 - If you are logged into your Homebrewery account it will contain all of your brews, both published and unpublished.  
 - If you are **NOT** logged into the account, only published brews are visible.
 
+### Disclaimer: I didn't really write this code, ChatGPT did. I don't know python. But I did make some tweaks.
