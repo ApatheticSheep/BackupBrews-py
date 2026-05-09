@@ -5,4 +5,4 @@
 - The content of this element should be saved to a file called `brews.txt`.  
 - If you are logged into your Homebrewery account it will contain all of your brews, both published and unpublished.  
 - If you are **NOT** logged into the account, only published brews are visible.
-
+- run `./pullBrews.py` and the script will download all of your homebrews into `./brewBackups/`
